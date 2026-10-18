@@ -1,0 +1,1 @@
+execute as @a if items entity @s weapon.mainhand minecraft:enchanted_golden_apple run item modify entity @s weapon.mainhand gold_apple_plus:gold_apple_plus-enchanted_gold_apple-item_modifier
